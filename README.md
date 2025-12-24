@@ -16,6 +16,8 @@ You must have **Docker** and **Docker Compose** installed.
 ### 1. Start the Containers
 
 From the project root directory, run the following command:
-##Game might feel different depending on os and fps
+
 ```bash
 docker-compose up --build
+
+##Game might feel different depending on os and fps
