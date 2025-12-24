@@ -20,4 +20,4 @@ From the project root directory, run the following command:
 ```bash
 docker-compose up --build
 
-##Game might feel different depending on os and fps
+--Game might feel different depending on os and fps--
