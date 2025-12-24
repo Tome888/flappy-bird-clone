@@ -13,7 +13,7 @@ import { ref, onMounted, onBeforeUnmount, nextTick } from "vue";
 const canvas = ref(null);
 const countdown = ref(3);
 let animationFrame = null;
-
+//game might feel different depending on os and fps
 const gravity = 0.05;
 const jump = -2.5;
 const pipeSpeed = 1.3;
